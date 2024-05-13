@@ -1,0 +1,46 @@
+body{
+    background-color: #cccccc;
+    padding: 50px;
+    margin-top: -10px;
+    padding-bottom: 10px;
+    font-family: arial;
+  
+    
+  }
+  fieldset{
+    background-color:  #ec5353;
+    border: none;
+    font-family: calibri;
+    border-radius: 10px;
+    
+    
+  }
+  .inp{
+    width: 100%;
+    border-radius: 5px;
+    
+  }
+  
+  h1,p{
+    text-align: center;
+  }
+  
+  label,input, select{
+    display: block;
+    text-align: center;
+    margin: 5px auto;
+  }
+  
+  textarea{
+    display: block;
+    margin: 10px auto;
+  }
+  .in{
+    text-align: left;
+    display: inline;
+    margin: 10px;
+  }
+  textarea{
+    border: double #ec5353
+  }
+  
