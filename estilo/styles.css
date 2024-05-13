@@ -1,20 +1,29 @@
 
 body{
-    background-image: url(../imagens/superficie-de-madeira-fundo-de-madeira-textura-de-madeira-superficie-de-tabuleiro-tabuleiro-chao_839035-609927.jpg);
+    background-image: url(../imagens/2203_w022_n001_566b_p15_566.jpg);
+    
+    background-size: cover;
+    
+    
+    background-repeat: no-repeat;
+    
+    
     padding: 50px;
-    margin-top: -10px;
+    margin-top: 10px;
     padding-bottom: 10px;
     font-family: arial;
+    height: 887px;
   
     
   }
   fieldset{
-    
+    background-color:  rgba(102,102,102, 0.5);
     border: none;
     font-family: calibri;
     border-radius: 10px;
     max-width: 1000px;
     margin: auto auto;
+    
     
     
   }
@@ -23,9 +32,12 @@ body{
     border-radius: 5px;
     
   }
-  
   h1,p{
+    padding-top: 10px;
+  }
+  h1,p, label{
     text-align: center;
+    color: white;
   }
   
   label,input, select{
@@ -37,13 +49,12 @@ body{
   textarea{
     display: block;
     margin: 10px auto;
+    border: double rgba(102,102,102, 1);
   }
   .in{
     text-align: left;
     display: inline;
     margin: 10px;
   }
-  textarea{
-    border: double #ec5353
-  }
+
   
