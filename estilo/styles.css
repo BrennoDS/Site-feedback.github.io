@@ -1,5 +1,6 @@
+
 body{
-    background-color: #cccccc;
+    background-image: url(../imagens/superficie-de-madeira-fundo-de-madeira-textura-de-madeira-superficie-de-tabuleiro-tabuleiro-chao_839035-609927.jpg);
     padding: 50px;
     margin-top: -10px;
     padding-bottom: 10px;
@@ -8,7 +9,7 @@ body{
     
   }
   fieldset{
-    background-color:  rgba(236,83,83, 0.5);
+    
     border: none;
     font-family: calibri;
     border-radius: 10px;
