@@ -8,10 +8,12 @@ body{
     
   }
   fieldset{
-    background-color:  #ec5353;
+    background-color:  rgba(236,83,83, 0.5);
     border: none;
     font-family: calibri;
     border-radius: 10px;
+    max-width: 1000px;
+    margin: auto auto;
     
     
   }
